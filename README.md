@@ -1,4 +1,4 @@
-favouritesam/README.md
+#favouritesam
 
 
 <h1 align="center">Hi 👋, I'm Nwadike Ebere Favour</h1>
