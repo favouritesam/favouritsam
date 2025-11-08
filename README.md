@@ -13,16 +13,16 @@
 ---
 
 ### 🧠 About Me
-- 💻 Software Engineer focused on **TypeScript**, **React**, **Java**, and **Spring Boot**
+- 💻 Software Engineer focused on **TypeScript**, **React**, **Next js**, **Tailwind css**, and **HTML AND CSS**
 - 🌍 Passionate about **adventure, creativity, and continuous learning**
 - ✨ Loves building digital experiences that solve real problems
-- 📫 Reach me at **nwadikefavour@gmail.com**
+- 📫 Reach me at **nwadikefavour12@gmail.com**
 
 ---
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,tailwind,java,spring,postgresql,mysql,git,docker,kubernetes,html,css,js,figma" />
+  <img src="https://skillicons.dev/icons?i=react,next js,typescript,tailwind,postgresql,mysql,git,docker,html,css,js,figma" />
 </p>
 
 ---
@@ -59,8 +59,8 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="mailto:nwadikefavour@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/nwadike-favour"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:nwadikefavour12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/favour-nwadike-3a3b19259"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/favouritesam"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
