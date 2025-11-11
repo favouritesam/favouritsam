@@ -63,7 +63,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=favouritesam&style=flat-square&color=brightgreen" alt="Profile views counter"/>
-</p>
