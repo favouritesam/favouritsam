@@ -45,14 +45,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=favouritesam&layout=compact&theme=radical" />
 </p>
-
----
-
-### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=favouritesam&theme=dracula&margin-w=10&margin-h=10&no-frame=true" />
-</p>
-
 ---
 
 ### 🌐 Connect With Me
